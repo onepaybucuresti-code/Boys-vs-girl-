@@ -1,0 +1,14 @@
+{
+  "name": "boys-girls-tiktok-live",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "ws": "^8.18.0",
+    "tiktok-live-events": "latest"
+  }
+}
